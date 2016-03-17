@@ -13,7 +13,7 @@ Anouk van Schijndel
 
 ## School Projects - Numerical Simulation
 
-<a href="http://anoukvanschijndel.github.io/Second-Assignment/">Effects of an advertisement ban</a>
+<a href="http://anoukvanschijndel.github.io/2nd-Assignment/">Effects of an advertisement ban</a>
 
 <a href="http://anoukvanschijndel.github.io/Second-Assignment-Presentation/">Effects of an advertisement ban - Presentation</a>
 
