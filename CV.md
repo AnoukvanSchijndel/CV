@@ -1,4 +1,4 @@
-﻿% CV 
+% CV 
 % Anouk van Schijndel
 % March 2016
 
@@ -15,9 +15,7 @@ Anouk van Schijndel
 
 <a href="http://anoukvanschijndel.github.io/Second-Assignment/">Effects of an advertisement ban</a>
 
-<a href="url">Effects of an advertisement ban - Presentation</a>
-
-
+<a href="http://anoukvanschijndel.github.io/Second-Assignment-Presentation/">Effects of an advertisement ban - Presentation</a>
 
 ## Personal Information
 
